@@ -17,4 +17,4 @@
 </p>
 <hr>
 <h3>Contact:</h3>
-<label><a href="gabriel.speranceta@gmail.com">Gmail</a></label>
+<label><a href="mailto:gabriel.speranceta@gmail.com">Gmail</a></label>
