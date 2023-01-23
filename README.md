@@ -17,4 +17,4 @@
 </p>
 <hr>
 <h3>Contact:</h3>
-<label><a href="mailto:gabriel.speranceta@gmail.com">Gmail</a></label>
+<label align="center"><a href="mailto:gabriel.speranceta@gmail.com">Gmail </a></label> <label align="center"> <strong>Discord:</strong>♔Gabr1elGam3s♔#1165</p>
