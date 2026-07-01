@@ -45,7 +45,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Starbiel&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -55,7 +55,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"
+    src="https://github-profile-trophy.vercel.app/?username=Starbiel&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"
   />
 </p>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Starbiel&theme=tokyo-night"
   />
 </p>
 
