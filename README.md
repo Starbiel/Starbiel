@@ -31,11 +31,11 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=StarbielO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starbiel&layout=compact&langs_count=8&theme=tokyonight"
   />
 </p>
 
